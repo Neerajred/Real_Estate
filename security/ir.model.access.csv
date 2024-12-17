@@ -5,5 +5,4 @@ Real_Estate.access_estate_property_tag,access_estate_property_tag,Real_Estate.mo
 Real_Estate.access_estate_property_offer,access_estate_property_offer,Real_Estate.model_estate_property_offer,base.group_user,1,1,1,1
 Real_Estate.access_estate_property_rent,access_estate_property_rent,Real_Estate.model_estate_property_rent,base.group_user,1,1,1,1
 Real_Estate.access_estate_payment,access_estate_payment,Real_Estate.model_estate_payment,base.group_user,1,1,1,1
-Real_Estate.access_agent_details,access_agent_details,Real_Estate.model_agent_details,base.group_user,1,1,1,1
 
